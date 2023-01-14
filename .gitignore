@@ -1,1 +1,3 @@
 /.idea/
+/opencv/dataset/raw/.gitkeep
+/opencv/dataset/trainner/.gitkeep
